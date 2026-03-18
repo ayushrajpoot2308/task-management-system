@@ -30,6 +30,4 @@ A full-stack Task Management System that allows users to securely manage their p
 - React
 - TypeScript
 
----
 
-## 📂 Project Structure
